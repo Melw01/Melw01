@@ -15,7 +15,12 @@
   - Oracle Cloud Infrastructure 2025 Foundations Associate
   - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d534e5c8-3ab3-4da5-a40a-8403c5be2172/linked_in_profile)
-  
+
+<h2>📓 School Projects</h2>
+
+  - [Online Chat App](https://github.com/Melw01/OnlineChatApp)
+  - [Wine Project](https://github.com/Melw01/WineProject)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MelWang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
