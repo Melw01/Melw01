@@ -22,5 +22,6 @@ I design scalable distributed systems and event-driven microservices. <br>
 
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/melodywang01) 
+- [LinkedIn](https://linkedin.com/in/https://linkedin.com/in/melodywang01)
+- [Dev.to](https://dev.to/mel_wang_bd07bd519fc32037)
 
