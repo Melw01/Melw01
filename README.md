@@ -19,6 +19,7 @@ Hi! I'm Mel. I am a software engineer working with fullstack applications. Speci
 - <b>Data Structures and Algorithms Practice (Leetcode)</b>
   - [Practicing DS & Algos](https://github.com/Melw01/Algorithms-Practice)
 - <b>Systems Design</b>
+  - [Rate Limiter System](https://github.com/Melw01/rate-limiter-system)
 
 
 <h2>📓 School Projects</h2>
